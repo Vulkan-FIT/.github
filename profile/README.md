@@ -10,6 +10,8 @@ The project renders demonstration scene using one of local HDR operátors - Rein
 
 Project website: <https://github.com/Vulkan-FIT/vulkan-HdrDemoApp>
 
+Author:
+
 Windows binaries:
 
 Bachelor thesis:
@@ -25,6 +27,8 @@ This project is focused on faster compilation speed.
 ![Screenshot](https://github.com/Vulkan-FIT/vkcpp-gen/raw/main/doc/screenshot.png)
 
 Project website: <https://github.com/Vulkan-FIT/vkcpp-gen>
+
+Author:
 
 Windows binaries:
 

@@ -29,8 +29,8 @@ This project is focused on faster compilation speed.
 
 Project website: <https://github.com/Vulkan-FIT/vkcpp-gen>
 
-Author:
+Author: Adam Ruža (xruzaa00@stud.fit.vutbr.cz)
 
-Windows binaries:
+Windows binaries: <https://github.com/Vulkan-FIT/vkcpp-gen/releases>
 
-Bachelor thesis:
+Bachelor thesis: <https://nextcloud.fit.vutbr.cz/s/ibBtX3cCeB5RWT8>

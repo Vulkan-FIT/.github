@@ -4,7 +4,7 @@ Vulkan-FIT hosts Vulkan projects created by students of Brno University of Techn
 
 ## Vulkan HDR demo
 
-The project renders demonstration scene using one of local HDR operátors - Reinhard, Modified Reinhard, Hejl-Dawson, Hable-Uncharted 2 and ACES. 
+The project renders demonstration scene using one of global HDR operators - Reinhard, Modified Reinhard, Hejl-Dawson, Hable-Uncharted 2 and ACES. 
 
 ![demo-img-min](https://github.com/Vulkan-FIT/.github/assets/56408811/aaf946c8-a6ce-4c5b-a815-4dbb239b504a)
 
@@ -12,7 +12,7 @@ Project website: <https://github.com/Vulkan-FIT/vulkan-HdrDemoApp>
 
 Author: Michal Rozenberg (rozenberg13michal@gmail.com)
 
-Windows binaries: https://drive.google.com/file/d/1YYgAaoid_H3gw3MBIjryJjhjtvuSYde0/view?usp=share_link
+Windows binaries: https://drive.google.com/file/d/1nJ1EzfpQitpbzFTY-Vlw0Ybcl43aT2Wt/view?usp=sharing
 
 Bachelor thesis: https://github.com/Rozzka/bachelorThesis-VulkanHdrDemoApp/blob/main/rozka-bachelorThesis-text.pdf
 

@@ -1,5 +1,20 @@
 Vulkan-FIT hosts Vulkan projects created by students of Brno University of Technology.
 
+# 2024
+## Vulkan HDR demo application
+
+A 3D renderer Vulkan demo application. It serves purpose to demonstrate several HDR rendering techniques such as: _uniform (global)_ and _spatially-variant (local) tone mapping_, _dynamic exposure adaptaion_, _exposure fusion_ and _bloom_.
+
+![vulkan-hdr-demo-2](https://github.com/Vulkan-FIT/.github/assets/84181987/9ec1b82e-a11d-43d8-9b4a-dff010541520)
+
+Project website: <https://github.com/VileDeg/vulkan-hdr-demo>
+
+Author: Vadim Goncearenco (xgonce00@stud.fit.vutbr.cz)
+
+Windows binraies: <https://github.com/VileDeg/vulkan-hdr-demo/blob/master/vkdemo.exe>
+
+Bachelor thesis: <https://github.com/VileDeg/bachelor-thesis/blob/main/xgonce00-vk-hdr.pdf>
+
 # 2023
 
 ## Vulkan HDR demo

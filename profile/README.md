@@ -7,7 +7,7 @@ A 3D renderer Vulkan demo application. It serves purpose to demonstrate several 
 
 ![vulkan-hdr-demo-2](https://github.com/Vulkan-FIT/.github/assets/84181987/9ec1b82e-a11d-43d8-9b4a-dff010541520)
 
-Project website: <https://github.com/VileDeg/vulkan-hdr-demo>
+Project website: <https://github.com/VileDeg/vulkan-hdr-demo> (<https://github.com/Vulkan-FIT/vulkan-hdr-demo>)
 
 Author: Vadim Goncearenco (xgonce00@stud.fit.vutbr.cz)
 

@@ -7,13 +7,13 @@ A 3D renderer Vulkan demo application. It serves purpose to demonstrate several 
 
 ![vulkan-hdr-demo-2](https://github.com/Vulkan-FIT/.github/assets/84181987/9ec1b82e-a11d-43d8-9b4a-dff010541520)
 
-Project website: <https://github.com/VileDeg/vulkan-hdr-demo> (<https://github.com/Vulkan-FIT/vulkan-hdr-demo>)
+Project website: <https://github.com/VileDeg/vulkan-hdr-demo>
 
-Author: Vadim Goncearenco (xgonce00@stud.fit.vutbr.cz)
+Author: Vadim Goncearenco (xgonce00@stud.fit.vutbr.cz, gvadim134@gmail.com)
 
-Windows binraies: <https://github.com/VileDeg/vulkan-hdr-demo/blob/master/vkdemo.exe>
+Repository archive: [https://github.com/VileDeg/vulkan-hdr-demo/blob/master/vkdemo.exe](https://nextcloud.fit.vutbr.cz/s/ZJTX7BxC3QDYEoi), [https://drive.google.com/file/d/1drSU-57Z-PCOsv4DSp1BvCahBa4XEOuH/view?usp=sharing](https://drive.google.com/file/d/1drSU-57Z-PCOsv4DSp1BvCahBa4XEOuH/view?usp=sharing)
 
-Bachelor thesis: <https://github.com/VileDeg/bachelor-thesis/blob/main/xgonce00-vk-hdr.pdf>
+Bachelor thesis: [https://github.com/VileDeg/bachelor-thesis/blob/main/xgonce00-vk-hdr.pdf](https://nextcloud.fit.vutbr.cz/s/yrYSN4PfFr467MK)
 
 # 2023
 

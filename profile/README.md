@@ -11,7 +11,7 @@ Project website: <https://github.com/VileDeg/vulkan-hdr-demo>
 
 Author: Vadim Goncearenco (xgonce00@stud.fit.vutbr.cz, gvadim134@gmail.com)
 
-Repository archive: <https://nextcloud.fit.vutbr.cz/s/ZJTX7BxC3QDYEoi>, <https://drive.google.com/file/d/1drSU-57Z-PCOsv4DSp1BvCahBa4XEOuH/view?usp=sharing>
+Windows binaries: <https://nextcloud.fit.vutbr.cz/s/ZJTX7BxC3QDYEoi>, <https://drive.google.com/file/d/1drSU-57Z-PCOsv4DSp1BvCahBa4XEOuH/view?usp=sharing>
 
 Bachelor thesis: <https://nextcloud.fit.vutbr.cz/s/yrYSN4PfFr467MK>
 

@@ -27,9 +27,7 @@ Author: Jozef Bilko (xbilko03@stud.fit.vutbr.cz, jozef.bilko12@gmail.com)
 
 Windows binaries: <https://nextcloud.fit.vutbr.cz/s/B7BTcYnwPnK8ppB>, <https://drive.google.com/drive/folders/1WUKkl8qSGZ7USWs8No_HCgkr4NRMw9ZW?usp=sharing>, <https://drive.google.com/file/d/17hPSgS-OTneKRFteBz667mEFWjPMFfKr/view?usp=sharing>
 
-
 Bachelor thesis: <https://nextcloud.fit.vutbr.cz/s/zxLqFJwiR2tEtN7>
-
 
 # 2023
 

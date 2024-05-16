@@ -19,13 +19,13 @@ Bachelor thesis: <https://nextcloud.fit.vutbr.cz/s/yrYSN4PfFr467MK>
 
 VkDebugger is an application dedicated to help with debugging of 2D/3D Vulkan graphics applications during their runtime. It is implemented in a form of a Vulkan layer and an application (VkDebuggerApp) with UI that shows the current state of the currently analysed program.
 
-![vulkan-debugger](https://raw.githubusercontent.com/Vulkan-FIT/.github/main/profile/vkDebuggerDemo.png)
+![vkDebuggerDemo](https://github.com/Vulkan-FIT/.github/assets/107000303/51f67795-41ab-4199-8264-fd5593bb86c5)
 
 Project website: <https://github.com/xbilko03/vulkan-ADT>
 
 Author: Jozef Bilko (xbilko03@stud.fit.vutbr.cz, jozef.bilko12@gmail.com)
 
-Windows binaries: <https://nextcloud.fit.vutbr.cz/s/B7BTcYnwPnK8ppB>, <https://drive.google.com/drive/folders/1WUKkl8qSGZ7USWs8No_HCgkr4NRMw9ZW?usp=sharing>, <https://drive.google.com/file/d/17hPSgS-OTneKRFteBz667mEFWjPMFfKr/view?usp=sharing>
+Windows binaries: <https://nextcloud.fit.vutbr.cz/s/B7BTcYnwPnK8ppB>, <https://drive.google.com/drive/folders/1WUKkl8qSGZ7USWs8No_HCgkr4NRMw9ZW?usp=sharing>
 
 Bachelor thesis: <https://nextcloud.fit.vutbr.cz/s/zxLqFJwiR2tEtN7>
 

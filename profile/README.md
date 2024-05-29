@@ -1,6 +1,18 @@
 Vulkan-FIT hosts Vulkan projects created by students of Brno University of Technology.
 
 # 2024
+## Vulkan C++ API generator
+
+Lightweight C++20 Vulkan bindings generator. Alternative API to <https://github.com/KhronosGroup/Vulkan-Hpp>.
+
+![vkcpp-gen-screenshot-24](https://github.com/Vulkan-FIT/.github/assets/80781072/092b4e60-51c7-4b4e-bfcf-f6c96a2b76d9)
+
+Project website: <https://github.com/Vulkan-FIT/vkcpp-gen>
+
+Author: Adam Ruža (xruzaa00@stud.fit.vutbr.cz)
+
+Windows binaries: <https://github.com/Vulkan-FIT/vkcpp-gen/releases>
+
 ## Vulkan HDR demo application
 
 A 3D renderer Vulkan demo application. It serves purpose to demonstrate several HDR rendering techniques such as: _uniform (global)_ and _spatially-variant (local) tone mapping_, _dynamic exposure adaptaion_, _exposure fusion_ and _bloom_.
@@ -53,8 +65,7 @@ Generates C++20 Vulkan API bindings.
 The official C++ bindings <https://github.com/KhronosGroup/Vulkan-Hpp>
 incure high compilation cost for the project.
 This project is focused on faster compilation speed.
-
-![Screenshot](https://github.com/Vulkan-FIT/vkcpp-gen/raw/main/doc/screenshot.png)
+![vkcpp-gen-screenshot-23](https://github.com/Vulkan-FIT/.github/assets/80781072/6a9f1277-7737-4c3b-a677-a01d4e666e7a)
 
 Project website: <https://github.com/Vulkan-FIT/vkcpp-gen>
 

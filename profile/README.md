@@ -1,6 +1,17 @@
 Vulkan-FIT hosts Vulkan projects created by students of Brno University of Technology.
 
 # 2024
+## Rendering vector text in 3D using Vulkan
+The developed library named vfont enables rendering 3D text with full Unicode support using Vulkan. The demo app demonstrates getting Unicode input from the user and displaying it using vfont.
+
+![vfont-demo-app](https://github.com/Vulkan-FIT/.github/assets/80092102/ff08d113-8e55-44db-bd25-e4eec5a55d62)
+
+Project website: <https://github.com/ChristianSalon/vfont-demo>
+
+Author: Christian Saloň (xsalon02@stud.fit.vutbr.cz, chsalon02@gmail.com)
+
+Binaries: <https://github.com/ChristianSalon/vfont-demo/tree/main/bin>
+
 ## Vulkan C++ API generator
 
 Lightweight C++20 Vulkan bindings generator. Alternative API to <https://github.com/KhronosGroup/Vulkan-Hpp>.

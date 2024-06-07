@@ -10,7 +10,7 @@ Project website: <https://github.com/ChristianSalon/vfont-demo>
 
 Author: Christian Saloň (xsalon02@stud.fit.vutbr.cz, chsalon02@gmail.com)
 
-Binaries: <https://github.com/ChristianSalon/vfont-demo/tree/main/bin>
+Binaries: <https://github.com/ChristianSalon/vfont-demo/releases>
 
 ## Vulkan C++ API generator
 

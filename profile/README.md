@@ -1,6 +1,21 @@
 Vulkan-FIT hosts Vulkan projects created by students of Brno University of Technology.
 
 # 2024
+
+## Vulkan HDR demo application
+
+A 3D renderer Vulkan demo application. It serves purpose to demonstrate several HDR rendering techniques such as: _uniform (global)_ and _spatially-variant (local) tone mapping_, _dynamic exposure adaptaion_, _exposure fusion_ and _bloom_.
+
+![vulkan-hdr-demo-2](https://github.com/Vulkan-FIT/.github/assets/84181987/9ec1b82e-a11d-43d8-9b4a-dff010541520)
+
+Project website: <https://github.com/VileDeg/vulkan-hdr-demo>
+
+Author: Vadim Goncearenco (xgonce00@stud.fit.vutbr.cz, gvadim134@gmail.com)
+
+Windows binaries: <https://nextcloud.fit.vutbr.cz/s/ZJTX7BxC3QDYEoi>, <https://drive.google.com/file/d/1drSU-57Z-PCOsv4DSp1BvCahBa4XEOuH/view?usp=sharing>
+
+Bachelor thesis: <https://nextcloud.fit.vutbr.cz/s/yrYSN4PfFr467MK>
+
 ## Rendering vector text in 3D using Vulkan
 The developed library named vfont enables rendering 3D text with full Unicode support using Vulkan. The demo app demonstrates getting Unicode input from the user and displaying it using vfont.
 
@@ -23,20 +38,6 @@ Project website: <https://github.com/Vulkan-FIT/vkcpp-gen>
 Author: Adam Ruža (xruzaa00@stud.fit.vutbr.cz)
 
 Windows binaries: <https://github.com/Vulkan-FIT/vkcpp-gen/releases>
-
-## Vulkan HDR demo application
-
-A 3D renderer Vulkan demo application. It serves purpose to demonstrate several HDR rendering techniques such as: _uniform (global)_ and _spatially-variant (local) tone mapping_, _dynamic exposure adaptaion_, _exposure fusion_ and _bloom_.
-
-![vulkan-hdr-demo-2](https://github.com/Vulkan-FIT/.github/assets/84181987/9ec1b82e-a11d-43d8-9b4a-dff010541520)
-
-Project website: <https://github.com/VileDeg/vulkan-hdr-demo>
-
-Author: Vadim Goncearenco (xgonce00@stud.fit.vutbr.cz, gvadim134@gmail.com)
-
-Windows binaries: <https://nextcloud.fit.vutbr.cz/s/ZJTX7BxC3QDYEoi>, <https://drive.google.com/file/d/1drSU-57Z-PCOsv4DSp1BvCahBa4XEOuH/view?usp=sharing>
-
-Bachelor thesis: <https://nextcloud.fit.vutbr.cz/s/yrYSN4PfFr467MK>
 
 ## Vulkan Debugging Tool
 

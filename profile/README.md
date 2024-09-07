@@ -1,4 +1,4 @@
-Vulkan-FIT hosts Vulkan projects created by students of Brno University of Technology.
+Vulkan-FIT webpages show Vulkan projects created by students of Brno University of Technology supervised by [PCJohn](https://github.com/pc-john) (peciva at fit.vut.cz).
 
 # 2024
 

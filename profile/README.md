@@ -31,7 +31,7 @@ Binaries: <https://github.com/ChristianSalon/vfont-demo/releases>
 
 Lightweight C++20 Vulkan bindings generator. Alternative API to <https://github.com/KhronosGroup/Vulkan-Hpp>.
 
-![vkcpp-gen-screenshot-24](https://github.com/Vulkan-FIT/.github/assets/80781072/092b4e60-51c7-4b4e-bfcf-f6c96a2b76d9)
+![vkcpp-gen-screenshot-24](https://github.com/user-attachments/assets/36ba07af-5643-46dd-b321-55cb446f9b40)
 
 Project website: <https://github.com/Vulkan-FIT/vkcpp-gen>
 

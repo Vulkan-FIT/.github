@@ -1,5 +1,19 @@
 Vulkan-FIT webpages show Vulkan projects created by students of Brno University of Technology supervised by [PCJohn](https://github.com/pc-john) (peciva at fit.vut.cz).
 
+# 2025
+
+## Vulkan shadow rendering demo application
+
+A Vulkan application demonstrating several common shadow-rendering techniques.
+
+![vulkan-shadows-demo](https://github.com/Fothsid/VulkanShadows/raw/main/screenshot.png)
+
+Project website: <https://github.com/Fothsid/VulkanShadows>
+
+Author: Fedor Vorobev (xvorob03@stud.fit.vutbr.cz)
+
+Windows Binaries: <https://nextcloud.fit.vutbr.cz/s/TLFYJMQdGRdP78M>
+
 # 2024
 
 ## Vulkan HDR demo application

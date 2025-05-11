@@ -4,7 +4,7 @@ Vulkan-FIT webpages show Vulkan projects created by students of Brno University 
 
 ## Vulkan shadow rendering demo application
 
-A Vulkan application demonstrating several common shadow-rendering techniques.
+A Vulkan application demonstrating several shadow-rendering techniques, specifically shadow volumes and cube shadow mapping.
 
 ![vulkan-shadows-demo](https://github.com/Fothsid/VulkanShadows/raw/main/screenshot.png)
 
@@ -12,7 +12,7 @@ Project website: <https://github.com/Fothsid/VulkanShadows>
 
 Author: Fedor Vorobev (xvorob03@stud.fit.vutbr.cz)
 
-Windows Binaries: <https://nextcloud.fit.vutbr.cz/s/TLFYJMQdGRdP78M>
+Windows Binaries: <https://nextcloud.fit.vutbr.cz/s/RF4y8r29iSEZ7jj>
 
 # 2024
 

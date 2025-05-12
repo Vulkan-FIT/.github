@@ -2,6 +2,17 @@ Vulkan-FIT webpages show Vulkan projects created by students of Brno University 
 
 # 2025
 
+## Rendering vector text in 3D using Vulkan
+The developed library named vfont enables rendering 3D text with full Unicode support using Vulkan. The demo app demonstrates getting Unicode input from the user and displaying it using vfont.
+
+![vfont-demo-app](https://github.com/Vulkan-FIT/.github/assets/80092102/ff08d113-8e55-44db-bd25-e4eec5a55d62)
+
+Project website: <https://github.com/ChristianSalon/vfont>
+
+Author: Christian Saloň (xsalon02@stud.fit.vutbr.cz, chsalon02@gmail.com)
+
+Windows Binaries: <https://github.com/ChristianSalon/vfont/releases>
+
 ## Vulkan shadow rendering demo application
 
 A Vulkan application demonstrating several shadow-rendering techniques, specifically shadow volumes and cube shadow mapping.

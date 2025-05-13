@@ -2,6 +2,17 @@ Vulkan-FIT webpages show Vulkan projects created by students of Brno University 
 
 # 2025
 
+## Vulkan glTF material model visualization
+A glTF model viewer focused on rendering properties of the glTF PBR material model.
+
+![svmv_demo_image](https://github.com/user-attachments/assets/c28fcceb-577c-44d3-800f-c61cab34cc77)
+
+Project website: <https://github.com/xmarshka/SVMV>
+
+Author: Martin Maršalek (xmarsa15@stud.fit.vutbr.cz, marshallplease@gmail.com)
+
+Windows Binaries: <https://github.com/xmarshka/SVMV/releases>
+
 ## Rendering vector text in 3D using Vulkan
 The developed library named vfont enables rendering 3D text with full Unicode support using Vulkan. The demo app demonstrates getting Unicode input from the user and displaying it using vfont.
 

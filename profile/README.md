@@ -28,13 +28,13 @@ Windows Binaries: <https://github.com/ChristianSalon/vfont/releases>
 
 A Vulkan application demonstrating several shadow-rendering techniques, specifically shadow volumes and cube shadow mapping.
 
-![vulkan-shadows-demo](https://github.com/Fothsid/VulkanShadows/raw/main/screenshot.png)
+![vulkan-shadows-demo](https://github.com/Fothsid/VulkanShadows/raw/main/screenshot.webp)
 
 Project website: <https://github.com/Fothsid/VulkanShadows>
 
-Author: Fedor Vorobev (xvorob03@stud.fit.vutbr.cz)
+Author: Fedor Vorobev (xvorob03@stud.fit.vutbr.cz, fedorvorobev97@gmail.com)
 
-Windows Binaries: <https://nextcloud.fit.vutbr.cz/s/RF4y8r29iSEZ7jj>
+Windows Binaries: <https://github.com/Fothsid/VulkanShadows/releases>
 
 # 2024
 

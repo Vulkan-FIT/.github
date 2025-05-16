@@ -24,6 +24,8 @@ Author: Christian Saloň (xsalon02@stud.fit.vutbr.cz, chsalon02@gmail.com)
 
 Windows Binaries: <https://github.com/ChristianSalon/vfont/releases>
 
+Bachelor thesis (Slovak language only): <https://nextcloud.fit.vutbr.cz/s/ykr7QiARNJczRHJ>
+
 ## Vulkan shadow rendering demo application
 
 A Vulkan application demonstrating several shadow-rendering techniques, specifically shadow volumes and cube shadow mapping.

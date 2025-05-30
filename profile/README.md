@@ -40,6 +40,8 @@ Author: Fedor Vorobev (xvorob03@stud.fit.vutbr.cz, fedorvorobev97@gmail.com)
 
 Windows Binaries: <https://github.com/Fothsid/VulkanShadows/releases>
 
+Bachelor thesis: <https://nextcloud.fit.vutbr.cz/s/AeFFX3fdFT8sQKf>
+
 # 2024
 
 ## Vulkan HDR demo application

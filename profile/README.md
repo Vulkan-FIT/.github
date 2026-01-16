@@ -18,6 +18,16 @@ Bachelor thesis: <https://nextcloud.fit.vutbr.cz/s/SJS283KELnxkeMW>
 ## Rendering vector text in 3D using Vulkan
 The developed library named vfont enables rendering 3D text with full Unicode support using Vulkan. The demo app demonstrates getting Unicode input from the user and displaying it using vfont.
 
+![vulkan-shadows-demo](https://github.com/Fothsid/VulkanShadows/raw/main/screenshot.webp)
+
+Project website: <https://github.com/Fothsid/VulkanShadows>
+
+Author: Fedor Vorobev (xvorob03@stud.fit.vutbr.cz, fedorvorobev97@gmail.com)
+
+Windows Binaries: <https://github.com/Fothsid/VulkanShadows/releases>
+
+Bachelor thesis: <https://nextcloud.fit.vutbr.cz/s/AeFFX3fdFT8sQKf>
+
 ![vfont-demo-app](https://github.com/Vulkan-FIT/.github/assets/80092102/ff08d113-8e55-44db-bd25-e4eec5a55d62)
 
 Project website: <https://github.com/ChristianSalon/vfont>
@@ -31,16 +41,6 @@ Bachelor thesis (Slovak language only): <https://nextcloud.fit.vutbr.cz/s/ykr7Qi
 ## Vulkan shadow rendering demo application
 
 A Vulkan application demonstrating several shadow-rendering techniques, specifically shadow volumes and cube shadow mapping.
-
-![vulkan-shadows-demo](https://github.com/Fothsid/VulkanShadows/raw/main/screenshot.webp)
-
-Project website: <https://github.com/Fothsid/VulkanShadows>
-
-Author: Fedor Vorobev (xvorob03@stud.fit.vutbr.cz, fedorvorobev97@gmail.com)
-
-Windows Binaries: <https://github.com/Fothsid/VulkanShadows/releases>
-
-Bachelor thesis: <https://nextcloud.fit.vutbr.cz/s/AeFFX3fdFT8sQKf>
 
 # 2024
 

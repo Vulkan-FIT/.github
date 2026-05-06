@@ -1,4 +1,18 @@
 Vulkan-FIT webpages show Vulkan projects created by students of Brno University of Technology supervised by [PCJohn](https://github.com/pc-john) (peciva at fit.vut.cz).
+# 2026
+
+## Vulkan C++ API Generator
+A configurable CLI tool that generates lightweight C++20 Vulkan API bindings based on the VulkanTutorial project <https://github.com/Vulkan-FIT/VulkanTutorial>.
+
+<img alt="Left: Default configuration of the generator. Right: Snippets of the generated C++ code, with different configurations." src="https://github.com/user-attachments/assets/59e46dcf-9c53-48f4-bdb2-f7b6e7cc1889"/>
+
+Project website: <https://github.com/RealTigerCZ/vkg_gen>
+
+Author: Jaroslav Hucel (xhucel00@stud.fit.vutbr.cz, hucellj@seznam.cz)
+
+Windows binaries: <https://drive.google.com/file/d/1-5M3aEWaqEekoZPy0YoNvTbMFstmtEyI/view?usp=sharing>
+
+Bachelor thesis:
 
 # 2025
 

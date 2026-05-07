@@ -14,6 +14,19 @@ Windows binaries: <https://drive.google.com/file/d/1-5M3aEWaqEekoZPy0YoNvTbMFstm
 
 Bachelor thesis:
 
+## Polygonal mesh simplification and Level of Detail
+A simplification application for 3D model geometry reduction and benchmark application showing off the performance effects of Level of Detail techniques combined with GPU-driven approaches.
+
+<img alt="Implemented applications show-off" src="https://github.com/user-attachments/assets/1d55bfa8-d3df-4773-ab4e-47fdfeace789" />
+
+Project website: <https://github.com/JiriPocar/Polygonal-mesh-simplification-and-LOD>
+
+Author: Jiří Počarovský (xpocar01@stud.fit.vut.cz, j.pocarovsky421@seznam.cz)
+
+Windows binaries: *TO BE ADDED*
+
+Bachelor thesis: *TO BE ADDED*
+
 # 2025
 
 ## Vulkan glTF material model visualization

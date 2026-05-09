@@ -23,7 +23,7 @@ Project website: <https://github.com/JiriPocar/Polygonal-mesh-simplification-and
 
 Author: Jiří Počarovský (xpocar01@stud.fit.vut.cz, j.pocarovsky421@seznam.cz)
 
-Windows binaries: *TO BE ADDED*
+Windows binaries: <https://github.com/JiriPocar/Polygonal-mesh-simplification-and-LOD/releases>
 
 Bachelor thesis: *TO BE ADDED*
 

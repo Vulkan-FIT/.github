@@ -15,9 +15,12 @@ Windows binaries: <https://drive.google.com/file/d/1-5M3aEWaqEekoZPy0YoNvTbMFstm
 Bachelor thesis:
 
 ## Polygonal mesh simplification and Level of Detail
-A simplification application for 3D model geometry reduction and benchmark application showing off the performance effects of Level of Detail techniques combined with GPU-driven approaches.
 
-<img alt="Implemented applications show-off" src="https://github.com/user-attachments/assets/1d55bfa8-d3df-4773-ab4e-47fdfeace789" />
+Implementation of a polygonal mesh simplification application and a benchmark application showing off the performance benefits of Level of Detail techniques combined with GPU-driven approaches.
+
+<a href="https://github.com/JiriPocar/Polygonal-mesh-simplification-and-LOD">
+  <img width="100%" alt="SIMPLIFICATORSPIRAL" src="https://github.com/user-attachments/assets/d1bcfad6-855f-42aa-bb65-ae8648344b11" />
+</a>
 
 Project website: <https://github.com/JiriPocar/Polygonal-mesh-simplification-and-LOD>
 
@@ -25,7 +28,7 @@ Author: Jiří Počarovský (xpocar01@stud.fit.vut.cz, j.pocarovsky421@seznam.cz
 
 Windows binaries: <https://github.com/JiriPocar/Polygonal-mesh-simplification-and-LOD/releases>
 
-Bachelor thesis: *TO BE ADDED*
+Bachelor thesis: <https://nextcloud.fit.vutbr.cz/s/f4a62QeJfT73TJR>
 
 # 2025
 

@@ -4,15 +4,15 @@ Vulkan-FIT webpages show Vulkan projects created by students of Brno University 
 ## Vulkan C++ API Generator
 A configurable CLI tool that generates lightweight C++20 Vulkan API bindings based on the VulkanTutorial project <https://github.com/Vulkan-FIT/VulkanTutorial>.
 
-<img alt="Left: Default configuration of the generator. Right: Snippets of the generated C++ code, with different configurations." src="https://github.com/user-attachments/assets/59e46dcf-9c53-48f4-bdb2-f7b6e7cc1889"/>
-
+<img alt="Left: Default configuration of the generator. Right: Snippets of the generated C++ code, with different configurations." src="https://github.com/user-attachments/assets/7446b4c5-e20d-4faa-84df-936aeae4f877"/>
+ 
 Project website: <https://github.com/RealTigerCZ/vkg_gen>
 
 Author: Jaroslav Hucel (xhucel00@stud.fit.vutbr.cz, hucellj@seznam.cz)
 
 Windows binaries: <https://drive.google.com/file/d/1-5M3aEWaqEekoZPy0YoNvTbMFstmtEyI/view?usp=sharing>
 
-Bachelor thesis:
+Bachelor thesis: <https://nextcloud.fit.vutbr.cz/s/88E4DjxigiEgneJ>
 
 ## Polygonal mesh simplification and Level of Detail
 

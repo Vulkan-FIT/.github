@@ -8,6 +8,8 @@ A contribution to CADR library (<https://github.com/Rendering-FIT/CADR>) utilizi
 
 Project website: <https://github.com/guritchi/CADR/tree/uber>
 
+Author: Adam Ruža (xruzaa00@stud.fit.vutbr.cz, xruzaa00@gmail.com)
+
 Master thesis: <https://nextcloud.fit.vutbr.cz/s/WQ2gwz4yqd4AWRz>
 
 ## Vulkan C++ API Generator

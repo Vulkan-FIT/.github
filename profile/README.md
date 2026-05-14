@@ -1,6 +1,15 @@
 Vulkan-FIT webpages show Vulkan projects created by students of Brno University of Technology supervised by [PCJohn](https://github.com/pc-john) (peciva at fit.vut.cz).
 # 2026
 
+## Ubershaders and Optimized Shaders for Virtual Scene Rendering (CADR)
+A contribution to CADR library (<https://github.com/Rendering-FIT/CADR>) utilizing multithreaded pipeline compilation and shader optimization.
+
+<img width="100%" alt="cadr" src="https://github.com/user-attachments/assets/b20e87e9-e5df-43dd-bdf8-b3e213ce9ec6" />
+
+Project website: <https://github.com/guritchi/CADR/tree/uber>
+
+Master thesis: <https://nextcloud.fit.vutbr.cz/s/WQ2gwz4yqd4AWRz>
+
 ## Vulkan C++ API Generator
 A configurable CLI tool that generates lightweight C++20 Vulkan API bindings based on the VulkanTutorial project <https://github.com/Vulkan-FIT/VulkanTutorial>.
 

@@ -4,11 +4,15 @@ Vulkan-FIT webpages show Vulkan projects created by students of Brno University 
 ## Ubershaders and Optimized Shaders for Virtual Scene Rendering (CADR)
 A contribution to CADR library (<https://github.com/Rendering-FIT/CADR>) utilizing multithreaded pipeline compilation and shader optimization.
 
-<img width="100%" alt="cadr" src="https://github.com/user-attachments/assets/b20e87e9-e5df-43dd-bdf8-b3e213ce9ec6" />
+<a href="https://github.com/guritchi/CADR/tree/uber">
+  <img width="100%" alt="cadr" src="https://github.com/user-attachments/assets/089d04d0-404c-4c5c-a051-23636d284459" />
+</a>
 
 Project website: <https://github.com/guritchi/CADR/tree/uber>
 
 Author: Adam Ruža (xruzaa00@stud.fit.vutbr.cz, xruzaa00@gmail.com)
+
+Windows binaries: <https://nextcloud.fit.vutbr.cz/s/gzCyLWFSfJmB9L3>
 
 Master thesis: <https://nextcloud.fit.vutbr.cz/s/WQ2gwz4yqd4AWRz>
 

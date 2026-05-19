@@ -5,7 +5,7 @@ Vulkan-FIT webpages show Vulkan projects created by students of Brno University 
 A contribution to CADR library (<https://github.com/Rendering-FIT/CADR>) utilizing multithreaded pipeline compilation and shader optimization.
 
 <a href="https://github.com/guritchi/CADR/tree/uber">
-  <img width="100%" alt="cadr" src="https://github.com/user-attachments/assets/089d04d0-404c-4c5c-a051-23636d284459" />
+  <img width="100%" alt="cadr" src="https://github.com/user-attachments/assets/43667e60-3a87-4e94-a227-0c143728ceec" />
 </a>
 
 Project website: <https://github.com/guritchi/CADR/tree/uber>
